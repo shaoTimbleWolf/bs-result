@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bs-consumer/bs-consumer.iml" filepath="$PROJECT_DIR$/bs-consumer/bs-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bs-provider/bs-provider.iml" filepath="$PROJECT_DIR$/bs-provider/bs-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bs-result.iml" filepath="$PROJECT_DIR$/bs-result.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bs-web/bs-web.iml" filepath="$PROJECT_DIR$/bs-web/bs-web.iml" />
+    </modules>
+  </component>
+</project>

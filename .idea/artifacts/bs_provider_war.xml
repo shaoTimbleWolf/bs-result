@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="bs-provider:war">
+    <output-path>$PROJECT_DIR$/bs-provider/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>bs-provider</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="bs-provider-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="bs-provider:war exploded" />
+    </root>
+  </artifact>
+</component>

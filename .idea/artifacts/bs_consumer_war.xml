@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="bs-consumer:war">
+    <output-path>$PROJECT_DIR$/bs-consumer/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>bs-consumer</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="bs-consumer-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="bs-consumer:war exploded" />
+    </root>
+  </artifact>
+</component>
